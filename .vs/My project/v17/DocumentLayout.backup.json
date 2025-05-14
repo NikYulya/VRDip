@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikas\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\VerticalSit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\VerticalSit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\tphome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\tphome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\TeleportPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TeleportPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\TeleportOnPlanSelect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TeleportOnPlanSelect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\ScrollViewManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ScrollViewManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\QuitApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\QuitApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\MaterialChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MaterialChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\ButtonModelSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ButtonModelSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Brick Project Studio\\Apartment Kit\\Common\\Scripts \u0026 Animation\\Closet\\ClosetopencloseDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Brick Project Studio\\Apartment Kit\\Common\\Scripts \u0026 Animation\\Closet\\ClosetopencloseDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Utilities\\Interaction\\XRInteractableUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Utilities\\Interaction\\XRInteractableUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\FreezeOnRelease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FreezeOnRelease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\NewEmptyCSharpScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NewEmptyCSharpScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\ObjectClicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ObjectClicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.xr.openxr@db4bbb5cd412\\Editor\\OpenXRProjectValidationRulesSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.openxr@db4bbb5cd412\\Editor\\OpenXRProjectValidationRulesSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Scripts\\PanelSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PanelSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikas\\My project\\Assets\\Fake Interiors FREE\\Plugins\\Editor\\StartScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Fake Interiors FREE\\Plugins\\Editor\\StartScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tphome.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\tphome.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\tphome.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\tphome.cs",
+              "RelativeToolTip": "Assets\\Scripts\\tphome.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:53:08.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeleportPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\TeleportPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TeleportPlayer.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\TeleportPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TeleportPlayer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:52:40.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScrollViewManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\ScrollViewManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScrollViewManager.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\ScrollViewManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScrollViewManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:50:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuitApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\QuitApplication.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuitApplication.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\QuitApplication.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuitApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:49:31.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FreezeOnRelease.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\FreezeOnRelease.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FreezeOnRelease.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\FreezeOnRelease.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FreezeOnRelease.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:23:36.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:44:49.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClosetopencloseDoor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Brick Project Studio\\Apartment Kit\\Common\\Scripts \u0026 Animation\\Closet\\ClosetopencloseDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Brick Project Studio\\Apartment Kit\\Common\\Scripts \u0026 Animation\\Closet\\ClosetopencloseDoor.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Brick Project Studio\\Apartment Kit\\Common\\Scripts \u0026 Animation\\Closet\\ClosetopencloseDoor.cs",
+              "RelativeToolTip": "Assets\\Brick Project Studio\\Apartment Kit\\Common\\Scripts \u0026 Animation\\Closet\\ClosetopencloseDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:23:24.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VerticalSit.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\VerticalSit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VerticalSit.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\VerticalSit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VerticalSit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:59:06.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XRGrabInteractable.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
+              "ViewState": "AgIAAKgHAAAAAAAAAAAowLoHAADoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:42:07.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeleportOnPlanSelect.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\TeleportOnPlanSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TeleportOnPlanSelect.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\TeleportOnPlanSelect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TeleportOnPlanSelect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:05:07.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XRInteractableUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Utilities\\Interaction\\XRInteractableUtility.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Utilities\\Interaction\\XRInteractableUtility.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Utilities\\Interaction\\XRInteractableUtility.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@9b07900cb163\\Runtime\\Utilities\\Interaction\\XRInteractableUtility.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAowIAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:43:27.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MaterialChanger.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\MaterialChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MaterialChanger.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\MaterialChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MaterialChanger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:43:44.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ButtonModelSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\ButtonModelSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonModelSelector.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\ButtonModelSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonModelSelector.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:46:00.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ObjectClicker.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\ObjectClicker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectClicker.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\ObjectClicker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectClicker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:58:44.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T15:33:09.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OpenXRProjectValidationRulesSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.xr.openxr@db4bbb5cd412\\Editor\\OpenXRProjectValidationRulesSetup.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.openxr@db4bbb5cd412\\Editor\\OpenXRProjectValidationRulesSetup.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Library\\PackageCache\\com.unity.xr.openxr@db4bbb5cd412\\Editor\\OpenXRProjectValidationRulesSetup.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.openxr@db4bbb5cd412\\Editor\\OpenXRProjectValidationRulesSetup.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowM0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:18:05.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PanelSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\PanelSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PanelSwitcher.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\PanelSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PanelSwitcher.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:03:15.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewEmptyCSharpScript.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\NewEmptyCSharpScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewEmptyCSharpScript.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Scripts\\NewEmptyCSharpScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewEmptyCSharpScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:34:51.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StartScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Nikas\\My project\\Assets\\Fake Interiors FREE\\Plugins\\Editor\\StartScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Fake Interiors FREE\\Plugins\\Editor\\StartScreen.cs",
+              "ToolTip": "C:\\Users\\Nikas\\My project\\Assets\\Fake Interiors FREE\\Plugins\\Editor\\StartScreen.cs",
+              "RelativeToolTip": "Assets\\Fake Interiors FREE\\Plugins\\Editor\\StartScreen.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAowKABAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:17:55.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
